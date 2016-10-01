@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Spinner.iml" filepath="$PROJECT_DIR$/Spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spinners.iml" filepath="$PROJECT_DIR$/Spinners.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/fspinner/fspinner.iml" filepath="$PROJECT_DIR$/fspinner/fspinner.iml" />
     </modules>
